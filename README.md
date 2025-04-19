@@ -1,6 +1,6 @@
 - ✨ @1SI25031K
 - 🌱 Born: February 6, 2007 (age 18)  Nagakute City, Aichi Prefecture, Japan
-- 🧑‍🎓 Education: Kyushiu University
+- 🧑‍🎓 Education: Kyushu University
 - 🪯 Religion: Soto sect
 
 <!---
